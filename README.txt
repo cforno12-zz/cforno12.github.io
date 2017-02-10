@@ -5,7 +5,7 @@ Personal Website:
 
 
 Credits:
-	Most Code: html5up.com
+	Most Code from: html5up.com
 
 	Demo Images:
 		Unsplash (unsplash.com)
